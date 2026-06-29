@@ -4,7 +4,7 @@
 🔹 Skilled in Power BI, SQL, Advanced Excel & VBA, Google Sheets, Tableau  
 🔹 BA Economics, University of Calicut  
 🔹 Currently seeking Data Analyst / Business Analyst / MIS Analyst roles  
-🔹 Long-term goal: Data Analytics roles in Dubai 🇦🇪
+🔹 Long-term goal: Data Scientist
 
 ---
 
